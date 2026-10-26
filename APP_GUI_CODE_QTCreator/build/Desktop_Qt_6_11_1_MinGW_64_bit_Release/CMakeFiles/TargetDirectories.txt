@@ -1,0 +1,5 @@
+D:/QT_BODY/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/CMakeFiles/OrthoMonitor.dir
+D:/QT_BODY/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/CMakeFiles/edit_cache.dir
+D:/QT_BODY/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/CMakeFiles/rebuild_cache.dir
+D:/QT_BODY/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/CMakeFiles/OrthoMonitor_autogen_timestamp_deps.dir
+D:/QT_BODY/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release/CMakeFiles/OrthoMonitor_autogen.dir

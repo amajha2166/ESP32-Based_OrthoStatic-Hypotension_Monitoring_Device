@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OrthoMonitor",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OrthoMonitor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OrthoMonitor-Release-23954a0c9fb32bac8b7d.json",
+					"name" : "OrthoMonitor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OrthoMonitor_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OrthoMonitor_autogen-Release-f15a4d553c44fbb56480.json",
+					"name" : "OrthoMonitor_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OrthoMonitor_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OrthoMonitor_autogen_timestamp_deps-Release-05d28e607dbbc4e7e3de.json",
+					"name" : "OrthoMonitor_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QT_BODY/build/Desktop_Qt_6_11_1_MinGW_64_bit_Release",
+		"source" : "D:/QT_BODY"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
